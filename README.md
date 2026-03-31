@@ -73,7 +73,7 @@ The Power BI dashboard highlights:
 - Highlighted areas of improvement and opportunities
 - Converted raw data into actionable insights through visuals and queries
 
-*(Add 2–3 bullet points with actual insights once finalized)*
+
 
 ---
 
